@@ -1,0 +1,198 @@
+@inproceedings{DBLP:conf/edge/HadidiGAK23,
+  author       = {Ramyad Hadidi and
+                  Nima Shoghi Ghaleshahi and
+                  Bahar Asgari and
+                  Hyesoon Kim},
+  editor       = {Claudio A. Ardagna and
+                  Feras M. Awaysheh and
+                  Hongyi Bian and
+                  Carl K. Chang and
+                  Rong N. Chang and
+                  Fl{\'{a}}via Coimbra Delicato and
+                  Nirmit Desai and
+                  Jing Fan and
+                  Geoffrey C. Fox and
+                  Andrzej Goscinski and
+                  Zhi Jin and
+                  Anna Kobusinska and
+                  Omer F. Rana},
+  title        = {Context-Aware Task Handling in Resource-Constrained Robots with Virtualization},
+  booktitle    = {{IEEE} International Conference on Edge Computing and Communications,
+                  {EDGE} 2023, Chicago, IL, USA, July 2-8, 2023},
+  pages        = {255--261},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/EDGE60047.2023.00047},
+  doi          = {10.1109/EDGE60047.2023.00047},
+  timestamp    = {Mon, 11 Sep 2023 15:19:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/edge/HadidiGAK23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {Intelligent mobile robots are critical in several scenarios. However, as their computational resources are limited, mobile robots struggle to handle several tasks concurrently while guaranteeing real timeliness. To address this challenge and improve the real-timeliness of critical tasks under resource constraints, we propose a fast context-aware task handling technique. To effectively handle tasks in real-time, our proposed context-aware technique comprises three main ingredients: (i) a dynamic time-sharing mechanism, coupled with (ii) an event-driven task scheduling using reactive programming paradigm to mindfully use the limited resources; and, (iii) a lightweight virtualized execution to easily integrate functionalities and their dependencies. We showcase our technique on a Raspberry-Pi-based robot with a variety of tasks such as Simultaneous localization and mapping (SLAM), sign detection, and speech recognition with a 42\% speedup in total execution time compared to the common Linux scheduler.}
+}
+
+
+
+@article{DBLP:journals/corr/abs-2206-08917,
+  author       = {Richard Tran and
+                  Janice Lan and
+                  Muhammed Shuaibi and
+                  Siddharth Goyal and
+                  Brandon M. Wood and
+                  Abhishek Das and
+                  Javier Heras{-}Domingo and
+                  Adeesh Kolluru and
+                  Ammar Rizvi and
+                  Nima Shoghi and
+                  Anuroop Sriram and
+                  Zachary W. Ulissi and
+                  C. Lawrence Zitnick},
+  title        = {The Open Catalyst 2022 {(OC22)} Dataset and Challenges for Oxide Electrocatalysis},
+  journal      = {CoRR},
+  volume       = {abs/2206.08917},
+  year         = {2022},
+  url          = {https://doi.org/10.48550/arXiv.2206.08917},
+  doi          = {10.48550/arXiv.2206.08917},
+  eprinttype    = {arXiv},
+  eprint       = {2206.08917},
+  timestamp    = {Mon, 26 Jun 2023 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2206-08917.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {The development of machine learning models for electrocatalysts requires a broad set of training data to enable their use across a wide variety of materials. One class of materials that currently lacks sufficient training data is oxides, which are critical for the development of OER catalysts. To address this, we developed the OC22 dataset, consisting of 62,331 DFT relaxations (~9,854,504 single point calculations) across a range of oxide materials, coverages, and adsorbates. We define generalized total energy tasks that enable property prediction beyond adsorption energies; we test baseline performance of several graph neural networks; and we provide pre-defined dataset splits to establish clear benchmarks for future efforts. In the most general task, GemNet-OC sees a ~36\% improvement in energy predictions when combining the chemically dissimilar OC20 and OC22 datasets via fine-tuning. Similarly, we achieved a ~19\% improvement in total energy predictions on OC20 and a ~9\% improvement in force predictions in OC22 when using joint training. We demonstrate the practical utility of a top performing model by capturing literature adsorption energies and important OER scaling relationships. We expect OC22 to provide an important benchmark for models seeking to incorporate intricate long-range electrostatic and magnetic interactions in oxide surfaces. Dataset and baseline models are open sourced, and a public leaderboard is available to encourage continued community developments on the total energy tasks and data.}
+}
+
+
+
+@article{DBLP:journals/cal/ShoghiBQK21,
+  author       = {Nima Shoghi and
+                  Andrei Bersatti and
+                  Moinuddin K. Qureshi and
+                  Hyesoon Kim},
+  title        = {SmaQ: Smart Quantization for {DNN} Training by Exploiting Value Clustering},
+  journal      = {{IEEE} Comput. Archit. Lett.},
+  volume       = {20},
+  number       = {2},
+  pages        = {126--129},
+  year         = {2021},
+  url          = {https://doi.org/10.1109/LCA.2021.3108505},
+  doi          = {10.1109/LCA.2021.3108505},
+  timestamp    = {Wed, 03 Nov 2021 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/cal/ShoghiBQK21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {Advancements in modern deep learning have shown that deeper networks with larger datasets can achieve state of the art results in many different tasks. As networks become deeper, the memory requirement of neural network training proves to be the primary bottleneck of single-machine training. In this letter, we first study the characteristics of neural network weight, gradient, feature map, gradient map, and optimizer state distributions for some popular neural network architectures. Our investigation shows that the majority of the data structures used by neural networks can have their value distributions be approximated with normal distributions. We then introduce Smart Quantization (SmaQ), a quantization scheme that exploits this observed normal distribution to quantize the data structures. Our dynamic quantization method calculates the sampled mean and standard deviation of tensors and quantizes each tensor element to 6 or 8 bits based on the z-score of that value. Our scheme reduces the memory usage during training by up to 6.7x with minor losses in accuracy.}
+}
+
+
+
+@inproceedings{DBLP:conf/asplos/HadidiAJASK21,
+  author       = {Ramyad Hadidi and
+                  Bahar Asgari and
+                  Sam Jijina and
+                  Adriana Amyette and
+                  Nima Shoghi and
+                  Hyesoon Kim},
+  editor       = {Tim Sherwood and
+                  Emery D. Berger and
+                  Christos Kozyrakis},
+  title        = {Quantifying the design-space tradeoffs in autonomous drones},
+  booktitle    = {{ASPLOS} '21: 26th {ACM} International Conference on Architectural
+                  Support for Programming Languages and Operating Systems, Virtual Event,
+                  USA, April 19-23, 2021},
+  pages        = {661--673},
+  publisher    = {{ACM}},
+  year         = {2021},
+  url          = {https://doi.org/10.1145/3445814.3446721},
+  doi          = {10.1145/3445814.3446721},
+  timestamp    = {Sat, 08 Jan 2022 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/asplos/HadidiAJASK21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {With fully autonomous flight capabilities coupled with user-specific applications, drones, in particular quadcopter drones, are becoming prevalent solutions in myriad commercial and research contexts. However, autonomous drones must operate within constraints and design considerations that are quite different from any other compute-based agent. At any given time, a drone must arbitrate among its limited compute, energy, and electromechanical resources. Despite huge technological advances in this area, each of these problems has been approached in isolation and drone systems design-space tradeoffs are largely unknown. To address this knowledge gap, we formalize the fundamental drone subsystems and find how computations impact this design space. We present a design-space exploration of autonomous drone systems and quantify how we can provide productive solutions. As an example, we study widely used simultaneous localization and mapping (SLAM) on various platforms and demonstrate that optimizing SLAM on FPGA is more fruitful for the drones. Finally, to address the lack of publicly available experimental drones, we release our open-source drone that is customizable across the hardware-software stack.}
+}
+
+
+
+@inproceedings{DBLP:conf/dac/AsgariHGK20,
+  author       = {Bahar Asgari and
+                  Ramyad Hadidi and
+                  Nima Shoghi Ghaleshahi and
+                  Hyesoon Kim},
+  title        = {{PISCES:} Power-Aware Implementation of {SLAM} by Customizing Efficient
+                  Sparse Algebra},
+  booktitle    = {57th {ACM/IEEE} Design Automation Conference, {DAC} 2020, San Francisco,
+                  CA, USA, July 20-24, 2020},
+  pages        = {1--6},
+  publisher    = {{IEEE}},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/DAC18072.2020.9218550},
+  doi          = {10.1109/DAC18072.2020.9218550},
+  timestamp    = {Wed, 14 Oct 2020 10:56:17 +0200},
+  biburl       = {https://dblp.org/rec/conf/dac/AsgariHGK20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {A key real-time task in autonomous systems is simultaneous localization and mapping (SLAM). Although prior work has proposed hardware accelerators to process SLAM in real time, they paid less attention to power consumption. To be more power-efficient, we propose Pisces, which co-optimizes power consumption and latency by exploiting sparsity, a key characteristic of SLAM missed in prior work. By orchestrating sparse data, Pisces aligns correlated data and enables deterministic, one-time, and parallel accesses to the on-chip memory. Therefore, Pisces (i) eliminates unnecessary memory accesses and (ii) enables pipelined and parallel processing. Our FPGA implementation shows that Pisces consumes 2.5× less power and executes SLAM 7.4× faster than the state of the art.}
+}
+
+
+
+@inproceedings{DBLP:conf/ispass/JijinaAGHK20,
+  author       = {Sam Jijina and
+                  Adriana Amyette and
+                  Nima Shoghi Ghaleshahi and
+                  Ramyad Hadidi and
+                  Hyesoon Kim},
+  title        = {Understanding the Software and Hardware Stacks of a General-Purpose
+                  Cognitive Drone},
+  booktitle    = {{IEEE} International Symposium on Performance Analysis of Systems
+                  and Software, {ISPASS} 2020, Boston, MA, USA, August 23-25, 2020},
+  pages        = {212--214},
+  publisher    = {{IEEE}},
+  year         = {2020},
+  url          = {https://doi.org/10.1109/ISPASS48437.2020.00036},
+  doi          = {10.1109/ISPASS48437.2020.00036},
+  timestamp    = {Sat, 09 Apr 2022 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/ispass/JijinaAGHK20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {Fully autonomous drones have a plethora of applications in the real world, from agriculture and communication to public services. With increasing attention, a new market segment has opened up for highly efficient drones. However, the deployment of efficient drones requires an in-depth analysis of several components spanning from hardware sensors to software stack. Specifically, to achieve high reliability, safety, and performance, the top concerns in the professional drone industry are characterizing underlying architecture and flight stack. In this paper, we characterize a widely-used open source flight stack, ArduCopter, to understand the performance requirements as a research community. Additionally, we study how area-specific applications affect flight stack. Our characterizations and benchmarks indicate that the drone flying range can be dramatically increased by optimizing the underlying flight controller software.}
+}
+
+
+
+@inproceedings{DBLP:conf/memsys/BersattiGK20,
+  author       = {Andrei Bersatti and
+                  Nima Shoghi and
+                  Hyesoon Kim},
+  title        = {Neural Network Weight Compression with {NNW-BDI}},
+  booktitle    = {{MEMSYS} 2020: The International Symposium on Memory Systems, Washington,
+                  DC, USA, September, 2020},
+  pages        = {335--340},
+  publisher    = {{ACM}},
+  year         = {2020},
+  url          = {https://doi.org/10.1145/3422575.3422805},
+  doi          = {10.1145/3422575.3422805},
+  timestamp    = {Fri, 22 Oct 2021 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/conf/memsys/BersattiGK20.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/corr/abs-2011-08936,
+  author       = {Nima Shoghi Ghaleshahi and
+                  Ramyad Hadidi and
+                  Jaewon Lee and
+                  Jun Chen and
+                  Arthur Siqueira and
+                  Rahul Rajan and
+                  Shaan Dhawan and
+                  Pooya Shoghi Ghalehshahi and
+                  Hyesoon Kim},
+  title        = {Secure Location-Aware Authentication and Communication for Intelligent
+                  Transportation Systems},
+  journal      = {CoRR},
+  volume       = {abs/2011.08936},
+  year         = {2020},
+  url          = {https://arxiv.org/abs/2011.08936},
+  eprinttype    = {arXiv},
+  eprint       = {2011.08936},
+  timestamp    = {Wed, 25 Nov 2020 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2011-08936.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
