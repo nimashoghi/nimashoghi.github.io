@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * AI Resident at **Meta Fundamental AI Research (FAIR)**, Aug 2021 - Aug 2023
-  * Worked on the FAIR Chemistry team, focusing on the development of large-scale pre-training methods for chemical property prediction.
+  * Worked on the [Open Catalyst Project](https://opencatalystproject.org/index.html) on the FAIR Chemistry team, focusing on the development of large-scale pre-training methods for chemical property prediction.
   * Advisors: [Dr. Larry Zitnick](http://larryzitnick.org/) and [Dr. Abhishek Das](https://abhishekdas.com/)
 
 * Research Assistant at **High Performance Computer Architecture Lab at Georgia Tech**, May 2019 - May 2021
@@ -49,6 +49,8 @@ Skills
 
 Publications
 ======
+(* denotes equal contribution)
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
