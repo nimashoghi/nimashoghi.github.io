@@ -1,3 +1,4 @@
 _site/
 /markdown_generator
 /markdown_generator/*
+/node_modules
