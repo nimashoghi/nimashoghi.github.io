@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+About me
+======
+I am an AI researcher with a background in computer science and machine learning. I received my B.S. and M.S. in Computer Science from Georgia Tech, where I worked on a variety of projects in the fields of machine learning, high-performance computing, and cyber security. I recently concluded my two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a large mixture of available chemical data across multiple different domains, for general-purpose chemical property prediction. I am particularly interested in the application of large-scale machine learning techniques to problems in science and engineering.
+
 Education
 ======
 * B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), Georgia Institute of Technology, May 2015 - Dec 2019
@@ -17,7 +21,7 @@ Education
 
 Work experience
 ======
-* AI Resident at **Meta Fundamental AI Research (FAIR)**, Aug 2021 - Aug 2023
+* AI Resident at **[Meta Fundamental AI Research (FAIR)](https://ai.meta.com/research/)**, Aug 2021 - Aug 2023
   * Worked on the [Open Catalyst Project](https://opencatalystproject.org/index.html) on the FAIR Chemistry team, focusing on the development of large-scale pre-training methods for chemical property prediction.
   * Advisors: [Dr. Larry Zitnick](http://larryzitnick.org/) and [Dr. Abhishek Das](https://abhishekdas.com/)
 
