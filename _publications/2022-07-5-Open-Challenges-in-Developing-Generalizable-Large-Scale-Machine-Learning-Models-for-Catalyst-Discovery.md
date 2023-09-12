@@ -6,7 +6,9 @@ excerpt: 'Examines the challenges and limited generalizability of current machin
 date: 2022-07-5
 venue: 'ACS Catalysis'
 paperurl: 'https://doi.org/10.1021/acscatal.2c02291'
-citation: ' Adeesh Kolluru,  Muhammed Shuaibi,  Aini Palizhati,  <b>Nima Shoghi</b>,  Abhishek Das,  Brandon Wood,  C Zitnick,  John Kitchin,  Zachary Ulissi, &quot;Open Challenges in Developing Generalizable Large-Scale Machine-Learning Models for Catalyst Discovery.&quot; ACS Catalysis, 2022.'
+authors: 'Adeesh Kolluru, Muhammed Shuaibi, Aini Palizhati, <b>Nima Shoghi</b>, Abhishek Das, Brandon Wood, C Zitnick, John Kitchin, Zachary Ulissi'
+citation: 'Adeesh Kolluru, Muhammed Shuaibi, Aini Palizhati, <b>Nima Shoghi</b>, Abhishek Das, Brandon Wood, C Zitnick, John Kitchin, Zachary Ulissi, ACS Catalysis, 2022.'
+full_citation: 'Adeesh Kolluru, Muhammed Shuaibi, Aini Palizhati, <b>Nima Shoghi</b>, Abhishek Das, Brandon Wood, C Zitnick, John Kitchin, Zachary Ulissi, &quot;Open Challenges in Developing Generalizable Large-Scale Machine-Learning Models for Catalyst Discovery.&quot; ACS Catalysis, 2022.'
 ---
 Examines the challenges and limited generalizability of current machine-learning models for catalyst discovery and discusses the potential advancements brought about by large-scale catalyst data sets like OC20.
 
