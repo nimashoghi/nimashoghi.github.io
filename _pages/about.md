@@ -16,9 +16,9 @@ I am an AI researcher with a background in computer science and machine learning
 
 Education
 ======
-* M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), Georgia Institute of Technology, Jan 2020 - May 2021
-* B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), Georgia Institute of Technology, May 2015 - Dec 2019
-* International Baccalaureate Diploma, Druid Hills High School, Aug 2011 - May 2015
+* M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), **Georgia Institute of Technology**, Jan 2020 - May 2021
+* B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), **Georgia Institute of Technology**, May 2015 - Dec 2019
+* International Baccalaureate Diploma, **Druid Hills High School**, Aug 2011 - May 2015
 
 Work experience
 ======
@@ -34,7 +34,7 @@ Work experience
   * CS 4510: Automata and Complexity, Fall 2020
   * CS 4510: Automata and Complexity, Spring 2021
 
-* Student Research Assistant at the **Cyber Forensics Innovation (CyFI)** Lab at Georgia Tech, Jan 2020 - Aug 2020
+* Student Research Assistant at the **Cyber Forensics Innovation (CyFI) Lab at Georgia Tech**, Jan 2020 - Aug 2020
   * Developed GNN-based ML models to analyze social media data for detecting incoming cyber attacks.
   * Advisor: [Dr. Maria Konte](https://mkonte.github.io/)
 
