@@ -33,7 +33,7 @@
       {% endif %}
       {% if author.email and author.b64email  %}
         <li>
-          <a href="javascript:;" onclick="location.href='mailto:' + atob('{{ author.b64email }}')">
+          <a href="javascript:;" onclick="location.href=atob('{{ author.b64email }}')">
             <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}: {{ author.email }}
           </a>
         </li>
