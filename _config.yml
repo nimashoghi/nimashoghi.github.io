@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nima Shoghi / Personal Website"
+title                    : "Nima Shoghi"
 title_separator          : "-"
 name                     : &name "Nima Shoghi"
 description              : &description "AI Researcher"
