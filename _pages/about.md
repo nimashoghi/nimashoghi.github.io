@@ -16,8 +16,9 @@ I am an AI researcher with a background in computer science and machine learning
 
 Education
 ======
-* B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), Georgia Institute of Technology, May 2015 - Dec 2019
 * M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), Georgia Institute of Technology, Jan 2020 - May 2021
+* B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), Georgia Institute of Technology, May 2015 - Dec 2019
+* International Baccalaureate Diploma, Druid Hills High School, Aug 2011 - May 2015
 
 Work experience
 ======
