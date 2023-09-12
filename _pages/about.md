@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ======
-I am an AI researcher with a background in computer science and machine learning. I received my B.S. and M.S. in Computer Science from Georgia Tech, where I worked on a variety of projects in the fields of machine learning, high-performance computing, and cyber security. I recently concluded my two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a large mixture of available chemical data across multiple different domains, for general-purpose chemical property prediction. I am particularly interested in the application of large-scale machine learning techniques to problems in science and engineering.
+I'm an AI researcher with a background in computer science and machine learning. I earned both my B.S. and M.S. degrees in Computer Science from Georgia Tech. During my time there, I conducted research at the High Performance Computer Architecture Lab, where I focused on accelerating ML training and inference. I recently concluded my two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a large mixture of available chemical data across multiple different domains, for general-purpose chemical property prediction. I am particularly interested in the application of large-scale machine learning techniques to problems in science and engineering.
 
 My CV is available [here](files/cv.pdf).
 
