@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Nima Shoghi / Personal Website"
 title_separator          : "-"
 name                     : &name "Nima Shoghi"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "AI Researcher"
+url                      : https://nima.sh/nima.sh # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nimashoghi/nimashoghi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nima Shoghi"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "AI Researcher"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=p6bW1bIAAAAJ&hl=en"
-  email            :
+  email            : "ns [at] nima [dot] sh"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nimashoghi"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nimashoghi1"
   vine             :
   weibo            :
   xing             :
