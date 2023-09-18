@@ -26,19 +26,19 @@ Work experience
   * Worked on the [Open Catalyst Project](https://opencatalystproject.org/index.html) on the FAIR Chemistry team, focusing on the development of large-scale pre-training methods for chemical property prediction.
   * Advisors: [Dr. Larry Zitnick](http://larryzitnick.org/) and [Dr. Abhishek Das](https://abhishekdas.com/)
 
-* Research Assistant at **High Performance Computer Architecture Lab at Georgia Tech**, May 2019 - May 2021
+* Research Assistant at **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, May 2019 - May 2021
   * Developed software-level and hardware-level techniques for accelerating deep learning training and inference.
   * Advisors: [Dr. Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) and [Dr. Moinuddin Qureshi](https://www.cc.gatech.edu/~mqureshi/)
 
-* Graduate Teaching Assistant at **Georgia Institute of Technology**, Aug 2020 - May 2021
-  * CS 4510: Automata and Complexity, Fall 2020
-  * CS 4510: Automata and Complexity, Spring 2021
+* Graduate Teaching Assistant at **[Georgia Institute of Technology](https://www.gatech.edu/)**, Aug 2020 - May 2021
+  * CS 4510: Automata and Complexity, Spring 2021, Taught by [Dr. Zvi Galil](https://www.cc.gatech.edu/people/zvi-galil)
+  * CS 4510: Automata and Complexity, Fall 2020, Taught by [Dr. Merrick Furst](hhttps://www.cc.gatech.edu/people/merrick-furst)
 
-* Student Research Assistant at the **Cyber Forensics Innovation (CyFI) Lab at Georgia Tech**, Jan 2020 - Aug 2020
+* Student Research Assistant at the **[Cyber Forensics Innovation (CyFI) Lab at Georgia Tech](https://cyfi.ece.gatech.edu/)**, Jan 2020 - Aug 2020
   * Developed GNN-based ML models to analyze social media data for detecting incoming cyber attacks.
   * Advisor: [Dr. Maria Konte](https://mkonte.github.io/)
 
-* Software Engineering Intern at **Ciena**, May 2017 - May 2018
+* Software Engineering Intern at **[Ciena](https://www.ciena.com/)**, May 2017 - May 2018
   * Developed software to interface with network devices and maintained CI/CD pipelines for build processes.
 
 Skills
