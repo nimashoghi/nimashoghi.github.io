@@ -32,7 +32,7 @@ Work experience
 
 * Graduate Teaching Assistant at **[Georgia Institute of Technology](https://www.gatech.edu/)**, Aug 2020 - May 2021
   * CS 4510: Automata and Complexity, Spring 2021, Taught by [Dr. Zvi Galil](https://www.cc.gatech.edu/people/zvi-galil)
-  * CS 4510: Automata and Complexity, Fall 2020, Taught by [Dr. Merrick Furst](hhttps://www.cc.gatech.edu/people/merrick-furst)
+  * CS 4510: Automata and Complexity, Fall 2020, Taught by [Dr. Merrick Furst](https://www.cc.gatech.edu/people/merrick-furst)
 
 * Student Research Assistant at the **[Cyber Forensics Innovation (CyFI) Lab at Georgia Tech](https://cyfi.ece.gatech.edu/)**, Jan 2020 - Aug 2020
   * Developed GNN-based ML models to analyze social media data for detecting incoming cyber attacks.
