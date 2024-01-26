@@ -14,6 +14,11 @@ I'm an AI researcher with a background in computer science and machine learning.
 
 My CV is available [here](files/cv.pdf).
 
+Recent Updates
+======
+* **[Jan 2024]** Our paper on [large-scale diverse pre-training for chemical property prediction](https://openreview.net/forum?id=PfPnugdxup) (also available on [arXiv](https://arxiv.org/abs/2310.16802)) has been accepted to ICLR 2024!
+* **[Dec 2023]** I will be joining the [High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/) as a temporary research staff member in December 2023!
+
 Education
 ======
 * M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), **Georgia Institute of Technology**, Jan 2020 - May 2021
@@ -22,6 +27,10 @@ Education
 
 Work experience
 ======
+* Temporary Research Staff at the **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, Dec 2023 - Present
+  * Working on efficient inference strategies for pre-trained image diffusion models, with a focus on generating diverse, high-quality images.
+  * Advisors: [Dr. Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) and [Dr. Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/)
+
 * AI Resident at **[Meta Fundamental AI Research (FAIR)](https://ai.meta.com/research/)**, Aug 2021 - Aug 2023
   * Worked on the [Open Catalyst Project](https://opencatalystproject.org/index.html) on the FAIR Chemistry team, focusing on the development of large-scale pre-training methods for chemical property prediction.
   * Advisors: [Dr. Larry Zitnick](http://larryzitnick.org/) and [Dr. Abhishek Das](https://abhishekdas.com/)
