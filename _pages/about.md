@@ -10,24 +10,26 @@ redirect_from:
 
 {% include base_path %}
 
-I'm an AI researcher with a background in computer science and machine learning. I earned both my B.S. and M.S. degrees in Computer Science from Georgia Tech. During my time there, I conducted research at the High Performance Computer Architecture Lab, where I focused on accelerating ML training and inference. I recently concluded my two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a large mixture of available chemical data across multiple different domains, for general-purpose chemical property prediction. I am particularly interested in the application of large-scale machine learning techniques to problems in science and engineering.
+I'm an AI researcher with a background in computer science and machine learning. I earned my B.S. and M.S. degrees in Computer Science from Georgia Tech, and I am currently pursuing my PhD in Machine Learning at the School of Computational Science and Engineering at Georgia Tech, focusing on Deep Learning for Scientific Applications. During my undergraduate and master's studies, I conducted research at the High Performance Computer Architecture Lab, where I focused on accelerating ML training and inference. I recently concluded my two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a large mixture of available chemical data across multiple different domains, for general-purpose chemical property prediction. I am particularly interested in the application of large-scale machine learning techniques to problems in science and engineering.
 
 My CV is available [here](files/cv.pdf).
 
 Recent Updates
 ======
-* **[Jan 2024]** Our paper on [large-scale diverse pre-training for chemical property prediction](https://openreview.net/forum?id=PfPnugdxup) (also available on [arXiv](https://arxiv.org/abs/2310.16802)) has been accepted to ICLR 2024!
-* **[Dec 2023]** I will be joining the [High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/) as a temporary research staff member in December 2023!
+* **[Jan 2024]** Our paper on [large-scale diverse pre-training for chemical property prediction](https://openreview.net/forum?id=PfPnugdxup) has been accepted to ICLR 2024! Please visit our [webpage](https://nima.sh/jmp/) for more information, including an interactive visualization of its embeddings!
 
 Education
 ======
-* M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), **Georgia Institute of Technology**, Jan 2020 - May 2021
-* B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), **Georgia Institute of Technology**, May 2015 - Dec 2019
-* International Baccalaureate Diploma, **Druid Hills High School**, Aug 2011 - May 2015
+* Ph.D. in Machine Learning (School of Computational Science and Engineering), **Georgia Institute of Technology**, 2024 - Present
+  * *Advisors*: [Dr. Victor Fung](https://cse.gatech.edu/people/victor-fung) and [Dr. Pan Li](https://sites.google.com/view/panli-purdue)
+  * *Research Focus*: Deep Learning for Scientific Applications (e.g., Chemistry, Climate Science, etc.)
+* M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), **Georgia Institute of Technology**, 2020 - 2021
+* B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), **Georgia Institute of Technology**, 2015 - 2019
+* International Baccalaureate Diploma, **Druid Hills High School**, 2011 - 2015
 
 Work experience
 ======
-* Temporary Research Staff at the **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, Dec 2023 - Present
+* Temporary Research Staff at the **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, Dec 2023 - May 2024
   * Working on efficient inference strategies for pre-trained image diffusion models, with a focus on generating diverse, high-quality images.
   * Advisors: [Dr. Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) and [Dr. Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/)
 
