@@ -1,5 +1,5 @@
 ---
-title: "Attention is All You Need"
+title: "Paper Review: Attention is All You Need"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-09-16-attention-is-all-you-need
