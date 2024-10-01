@@ -1,5 +1,5 @@
 ---
-title: "Understanding the software and hardware stacks of a general-purpose cognitive drone"
+title: 'Understanding the software and hardware stacks of a general-purpose cognitive drone'
 collection: publications
 permalink: /publication/2020-Understanding-the-software-and-hardware-stacks-of-a-general-purpose-cognitive-drone
 excerpt: 'Conducted an in-depth analysis of the hardware and software components of autonomous drones, characterizing the performance of the ArduCopter flight stack and providing insights to optimize flight controllers and increase drone range.'

@@ -1,5 +1,5 @@
 ---
-title: "Context-Aware Task Handling in Resource-Constrained Robots with Virtualization"
+title: 'Context-Aware Task Handling in Resource-Constrained Robots with Virtualization'
 collection: publications
 permalink: /publication/2023-Context-Aware-Task-Handling-in-Resource-Constrained-Robots-with-Virtualization
 excerpt: 'Developed a context-aware task handling technique for resource-constrained mobile robots, enabling concurrent execution of critical tasks with improved real-time performance.'

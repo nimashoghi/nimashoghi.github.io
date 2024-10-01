@@ -1,5 +1,5 @@
 ---
-title: "From molecules to materials: Pre-training large generalizable models for atomic property prediction"
+title: 'From molecules to materials: Pre-training large generalizable models for atomic property prediction'
 collection: publications
 permalink: /publication/2024-From-molecules-to-materials-Pre-training-large-generalizable-models-for-atomic-property-prediction
 excerpt: 'Developed Joint Multi-domain Pre-training (JMP), a supervised pre-training strategy that leverages diverse data to advance atomic property prediction across chemical domains, achieving state-of-the-art performance on 34 out of 40 downstream tasks.'

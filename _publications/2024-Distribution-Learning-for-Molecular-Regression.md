@@ -1,5 +1,5 @@
 ---
-title: "Distribution Learning for Molecular Regression"
+title: 'Distribution Learning for Molecular Regression'
 collection: publications
 permalink: /publication/2024-Distribution-Learning-for-Molecular-Regression
 excerpt: 'Developed Distributional Mixture of Experts (DMoE), a robust method for molecular property regression that outperforms baselines on multiple datasets and architectures.'

@@ -1,5 +1,5 @@
 ---
-title: "Pisces: power-aware implementation of slam by customizing efficient sparse algebra"
+title: 'Pisces: power-aware implementation of slam by customizing efficient sparse algebra'
 collection: publications
 permalink: /publication/2020-Pisces-power-aware-implementation-of-slam-by-customizing-efficient-sparse-algebra
 excerpt: 'Developed Pisces, a power-aware SLAM implementation that consumes 2.5× less power and executes 7.4× faster than the state of the art by customizing efficient sparse algebra on FPGAs.'

@@ -1,5 +1,5 @@
 ---
-title: "Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems"
+title: 'Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems'
 collection: publications
 permalink: /publication/2020-Secure-Location-Aware-Authentication-and-Communication-for-Intelligent-Transportation-Systems
 excerpt: 'Developed a scalable, infrastructure-independent, location-aware authentication protocol for intelligent transportation systems, providing trustworthy communication and efficient sender localization using visual authentication beacons.'

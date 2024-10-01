@@ -1,5 +1,5 @@
 ---
-title: "Neural network weight compression with nnw-bdi"
+title: 'Neural network weight compression with nnw-bdi'
 collection: publications
 permalink: /publication/2020-Neural-network-weight-compression-with-nnw-bdi
 excerpt: 'Developed NNW-BDI, a neural network weight compression scheme that reduces memory usage by up to 85% without sacrificing inference accuracy on an MNIST classification task.'

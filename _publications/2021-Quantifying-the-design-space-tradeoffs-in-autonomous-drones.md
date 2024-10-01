@@ -1,5 +1,5 @@
 ---
-title: "Quantifying the design-space tradeoffs in autonomous drones"
+title: 'Quantifying the design-space tradeoffs in autonomous drones'
 collection: publications
 permalink: /publication/2021-Quantifying-the-design-space-tradeoffs-in-autonomous-drones
 excerpt: 'Formalized the subsystems of autonomous drones and quantified the complex tradeoffs in their design space to enable optimized solutions for diverse applications.'

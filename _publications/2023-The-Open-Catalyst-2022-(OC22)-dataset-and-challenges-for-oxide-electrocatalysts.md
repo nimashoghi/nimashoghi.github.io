@@ -1,5 +1,5 @@
 ---
-title: "The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts"
+title: 'The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts'
 collection: publications
 permalink: /publication/2023-The-Open-Catalyst-2022-(OC22)-dataset-and-challenges-for-oxide-electrocatalysts
 excerpt: 'Developed the Open Catalyst 2022 (OC22) dataset, consisting of 62,331 DFT relaxations, to accelerate machine learning for oxide electrocatalysts and establish benchmarks for the field.'

@@ -1,5 +1,5 @@
 ---
-title: "Open challenges in developing generalizable large-scale machine-learning models for catalyst discovery"
+title: 'Open challenges in developing generalizable large-scale machine-learning models for catalyst discovery'
 collection: publications
 permalink: /publication/2022-Open-challenges-in-developing-generalizable-large-scale-machine-learning-models-for-catalyst-discovery
 excerpt: 'Discussed the challenges and potential of developing generalizable machine learning models for catalyst discovery, highlighting the importance of large-scale datasets like the Open Catalyst 2020 Data set (OC20).'

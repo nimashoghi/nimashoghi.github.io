@@ -1,5 +1,5 @@
 ---
-title: "Slam performance on embedded robots"
+title: 'Slam performance on embedded robots'
 collection: publications
 permalink: /publication/2019-Slam-performance-on-embedded-robots
 excerpt: 'Demonstrated the feasibility of running ORB-SLAM2 in real-time on the Raspberry Pi 3B+ for embedded robots through optimizations that achieved a 5x speedup with minor impact on accuracy.'
