@@ -3,7 +3,7 @@ title: 'Quantifying the design-space tradeoffs in autonomous drones'
 collection: publications
 permalink: /publication/2021-Quantifying-the-design-space-tradeoffs-in-autonomous-drones
 excerpt: 'Formalized the subsystems of autonomous drones and quantified the complex tradeoffs in their design space to enable optimized solutions for diverse applications.'
-date: 2021
+date: 2021-01-01
 venue: 'Unknown'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3445814.3446721'
 authors: 'Ramyad Hadidi, Bahar Asgari, Sam Jijina, Adriana Amyette, <b>Nima Shoghi</b>, Hyesoon Kim'

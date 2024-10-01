@@ -2,9 +2,9 @@
 title: 'Unlocking the Potential of Pre-training for Accelerated Discovery in Chemistry'
 collection: talks
 type: 'Talk'
-permalink: /talks/2024-08-2024-machine-learning-for-materials-and-molecular-discoveries-symposium-unlocking-the-potential-of-pre-training-for-accelerated-discovery-in-chemistry
+permalink: /talks/2024-08-01-2024-machine-learning-for-materials-and-molecular-discoveries-symposium-unlocking-the-potential-of-pre-training-for-accelerated-discovery-in-chemistry
 venue: '2024 Machine Learning for Materials and Molecular Discoveries Symposium'
-date: '2024-08'
+date: '2024-08-01'
 location: 'Gothenburg, Sweden'
 ---
 

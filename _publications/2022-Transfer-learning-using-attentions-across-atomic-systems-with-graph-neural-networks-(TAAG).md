@@ -3,7 +3,7 @@ title: 'Transfer learning using attentions across atomic systems with graph neur
 collection: publications
 permalink: /publication/2022-Transfer-learning-using-attentions-across-atomic-systems-with-graph-neural-networks-(TAAG)
 excerpt: 'Developed a transfer learning approach using Graph Neural Networks to generalize models across domains in molecular and catalyst discovery, reducing the need for large, domain-specific datasets.'
-date: 2022
+date: 2022-01-01
 venue: 'The Journal of Chemical Physics'
 paperurl: 'https://pubs.aip.org/aip/jcp/article/156/18/184702/2841241'
 authors: 'Adeesh Kolluru, <b>Nima Shoghi</b>, Muhammed Shuaibi, Siddharth Goyal, Abhishek Das, C Lawrence Zitnick, Zachary Ulissi'

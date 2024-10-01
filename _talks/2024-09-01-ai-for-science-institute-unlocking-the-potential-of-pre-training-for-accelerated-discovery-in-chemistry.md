@@ -2,9 +2,9 @@
 title: 'Unlocking the Potential of Pre-training for Accelerated Discovery in Chemistry'
 collection: talks
 type: 'Talk'
-permalink: /talks/2024-09-ai-for-science-institute-unlocking-the-potential-of-pre-training-for-accelerated-discovery-in-chemistry
+permalink: /talks/2024-09-01-ai-for-science-institute-unlocking-the-potential-of-pre-training-for-accelerated-discovery-in-chemistry
 venue: 'AI for Science Institute'
-date: '2024-09'
+date: '2024-09-01'
 location: 'Remote'
 ---
 

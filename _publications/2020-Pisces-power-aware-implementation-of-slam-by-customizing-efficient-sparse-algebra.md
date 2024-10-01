@@ -3,7 +3,7 @@ title: 'Pisces: power-aware implementation of slam by customizing efficient spar
 collection: publications
 permalink: /publication/2020-Pisces-power-aware-implementation-of-slam-by-customizing-efficient-sparse-algebra
 excerpt: 'Developed Pisces, a power-aware SLAM implementation that consumes 2.5× less power and executes 7.4× faster than the state of the art by customizing efficient sparse algebra on FPGAs.'
-date: 2020
+date: 2020-01-01
 venue: '2020 57th ACM/IEEE Design Automation Conference (DAC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9218550/'
 authors: 'Bahar Asgari, Ramyad Hadidi, <b>Nima Shoghi Ghaleshahi</b>, Hyesoon Kim'

@@ -3,7 +3,7 @@ title: 'Understanding the software and hardware stacks of a general-purpose cogn
 collection: publications
 permalink: /publication/2020-Understanding-the-software-and-hardware-stacks-of-a-general-purpose-cognitive-drone
 excerpt: 'Conducted an in-depth analysis of the hardware and software components of autonomous drones, characterizing the performance of the ArduCopter flight stack and providing insights to optimize flight controllers and increase drone range.'
-date: 2020
+date: 2020-01-01
 venue: '2020 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9238616/'
 authors: 'Sam Jijina, Adriana Amyette, <b>Nima Shoghi</b>, Ramyad Hadidi, Hyesoon Kim'

@@ -3,7 +3,7 @@ title: 'Neural network weight compression with nnw-bdi'
 collection: publications
 permalink: /publication/2020-Neural-network-weight-compression-with-nnw-bdi
 excerpt: 'Developed NNW-BDI, a neural network weight compression scheme that reduces memory usage by up to 85% without sacrificing inference accuracy on an MNIST classification task.'
-date: 2020
+date: 2020-01-01
 venue: 'Unknown'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3422575.3422805'
 authors: 'Andrei Bersatti, <b>Nima Shoghi Ghalehshahi</b>, Hyesoon Kim'

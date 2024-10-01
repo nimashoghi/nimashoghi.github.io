@@ -2,9 +2,9 @@
 title: 'From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction'
 collection: talks
 type: 'Talk'
-permalink: /talks/2023-08-2023-acs-fall-meeting-from-molecules-to-materials-pre-training-large-generalizable-models-for-atomic-property-prediction
-venue: '2023 ACS Fall Meeting'
-date: '2023-08'
+permalink: /talks/2023-08-01-acs-fall-meeting-from-molecules-to-materials-pre-training-large-generalizable-models-for-atomic-property-prediction
+venue: 'ACS Fall Meeting'
+date: '2023-08-01'
 location: 'San Francisco, CA'
 ---
 

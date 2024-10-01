@@ -3,7 +3,7 @@ title: 'The Open Catalyst 2022 (OC22) dataset and challenges for oxide electroca
 collection: publications
 permalink: /publication/2023-The-Open-Catalyst-2022-(OC22)-dataset-and-challenges-for-oxide-electrocatalysts
 excerpt: 'Developed the Open Catalyst 2022 (OC22) dataset, consisting of 62,331 DFT relaxations, to accelerate machine learning for oxide electrocatalysts and establish benchmarks for the field.'
-date: 2023
+date: 2023-01-01
 venue: 'ACS Catalysis'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acscatal.2c05426'
 authors: 'Richard Tran, Janice Lan, Muhammed Shuaibi, Brandon M Wood, Siddharth Goyal, Abhishek Das, Javier Heras-Domingo, Adeesh Kolluru, Ammar Rizvi, <b>Nima Shoghi</b>, Anuroop Sriram, Félix Therrien, Jehad Abed, Oleksandr Voznyy, Edward H Sargent, Zachary Ulissi, C Lawrence Zitnick'

@@ -3,7 +3,7 @@ title: 'From molecules to materials: Pre-training large generalizable models for
 collection: publications
 permalink: /publication/2024-From-molecules-to-materials-Pre-training-large-generalizable-models-for-atomic-property-prediction
 excerpt: 'Developed Joint Multi-domain Pre-training (JMP), a supervised pre-training strategy that leverages diverse data to advance atomic property prediction across chemical domains, achieving state-of-the-art performance on 34 out of 40 downstream tasks.'
-date: 2024
+date: 2024-01-01
 venue: 'International Conference on Learning Representations'
 paperurl: 'https://arxiv.org/abs/2310.16802'
 authors: '<b>Nima Shoghi</b>, Adeesh Kolluru, John R Kitchin, Zachary W Ulissi, C Lawrence Zitnick, Brandon M Wood'

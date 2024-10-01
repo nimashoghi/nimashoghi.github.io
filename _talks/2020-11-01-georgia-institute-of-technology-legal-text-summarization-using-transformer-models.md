@@ -2,9 +2,9 @@
 title: 'Legal Text Summarization Using Transformer Models'
 collection: talks
 type: 'Talk'
-permalink: /talks/2020-11-georgia-institute-of-technology-legal-text-summarization-using-transformer-models
+permalink: /talks/2020-11-01-georgia-institute-of-technology-legal-text-summarization-using-transformer-models
 venue: 'Georgia Institute of Technology'
-date: '2020-11'
+date: '2020-11-01'
 location: 'Atlanta, GA'
 ---
 

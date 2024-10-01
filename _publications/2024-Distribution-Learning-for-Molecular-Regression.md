@@ -3,7 +3,7 @@ title: 'Distribution Learning for Molecular Regression'
 collection: publications
 permalink: /publication/2024-Distribution-Learning-for-Molecular-Regression
 excerpt: 'Developed Distributional Mixture of Experts (DMoE), a robust method for molecular property regression that outperforms baselines on multiple datasets and architectures.'
-date: 2024
+date: 2024-01-01
 venue: 'arXiv preprint arXiv:2407.20475'
 paperurl: 'https://arxiv.org/abs/2407.20475'
 authors: '<b>Nima Shoghi</b>, Pooya Shoghi, Anuroop Sriram, Abhishek Das'

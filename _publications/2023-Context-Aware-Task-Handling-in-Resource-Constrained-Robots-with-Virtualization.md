@@ -3,7 +3,7 @@ title: 'Context-Aware Task Handling in Resource-Constrained Robots with Virtuali
 collection: publications
 permalink: /publication/2023-Context-Aware-Task-Handling-in-Resource-Constrained-Robots-with-Virtualization
 excerpt: 'Developed a context-aware task handling technique for resource-constrained mobile robots, enabling concurrent execution of critical tasks with improved real-time performance.'
-date: 2023
+date: 2023-01-01
 venue: '2023 IEEE International Conference on Edge Computing and Communications (EDGE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10234269/'
 authors: 'Ramyad Hadidi, <b>Nima Shoghi Ghaleshahi</b>, Bahar Asgari, Hyesoon Kim'

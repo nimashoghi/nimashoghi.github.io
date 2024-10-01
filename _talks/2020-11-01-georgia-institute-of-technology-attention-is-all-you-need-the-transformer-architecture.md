@@ -2,9 +2,9 @@
 title: 'Attention is All You Need: The Transformer Architecture'
 collection: talks
 type: 'Talk'
-permalink: /talks/2020-11-georgia-institute-of-technology-attention-is-all-you-need-the-transformer-architecture
+permalink: /talks/2020-11-01-georgia-institute-of-technology-attention-is-all-you-need-the-transformer-architecture
 venue: 'Georgia Institute of Technology'
-date: '2020-11'
+date: '2020-11-01'
 location: 'Atlanta, GA'
 ---
 

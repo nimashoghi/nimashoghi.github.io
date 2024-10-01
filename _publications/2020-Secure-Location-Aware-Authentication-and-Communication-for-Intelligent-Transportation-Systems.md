@@ -3,7 +3,7 @@ title: 'Secure Location-Aware Authentication and Communication for Intelligent T
 collection: publications
 permalink: /publication/2020-Secure-Location-Aware-Authentication-and-Communication-for-Intelligent-Transportation-Systems
 excerpt: 'Developed a scalable, infrastructure-independent, location-aware authentication protocol for intelligent transportation systems, providing trustworthy communication and efficient sender localization using visual authentication beacons.'
-date: 2020
+date: 2020-01-01
 venue: 'arXiv preprint arXiv:2011.08936'
 paperurl: 'https://arxiv.org/abs/2011.08936'
 authors: '<b>Nima Shoghi Ghalehshahi</b>, Ramyad Hadidi, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim'
