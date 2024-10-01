@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm an AI researcher with a background in computer science and machine learning. I earned my B.S. and M.S. degrees in Computer Science from Georgia Tech, and I am currently pursuing my PhD in Machine Learning at the School of Computational Science and Engineering at Georgia Tech, focusing on Deep Learning for Scientific Applications. During my undergraduate and master's studies, I conducted research at the High Performance Computer Architecture Lab, where I focused on accelerating ML training and inference. I recently concluded my two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a large mixture of available chemical data across multiple different domains, for general-purpose chemical property prediction. I am particularly interested in the application of large-scale machine learning techniques to problems in science and engineering.
+I'm a PhD student in Machine Learning at Georgia Tech, where I am focusing on Deep Learning for Scientific Applications under the guidance of Dr. Pan Li and Dr. Victor Fung. I earned my B.S. and M.S. degrees in Computer Science from Georgia Tech, during which I conducted research at the High Performance Computer Architecture Lab on accelerating ML training and inference.  Prior to starting my PhD, I completed a two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a diverse mixture of chemical data across multiple domains, for general-purpose chemical property prediction. My research interests lie in the application of large-scale machine learning techniques to challenging problems in science and engineering. I am particularly excited about the potential for deep learning to accelerate discovery and understanding in fields like chemistry and climate science.
 
 My CV is available [here](files/cv.pdf).
 
@@ -21,7 +21,7 @@ Recent Updates
 Education
 ======
 * Ph.D. in Machine Learning (School of Computational Science and Engineering), **Georgia Institute of Technology**, 2024 - Present
-  * *Advisors*: [Dr. Victor Fung](https://cse.gatech.edu/people/victor-fung) and [Dr. Pan Li](https://sites.google.com/view/panli-purdue)
+  * *Advisors*: [Dr. Pan Li](https://sites.google.com/view/panli-purdue) and [Dr. Victor Fung](https://cse.gatech.edu/people/victor-fung)
   * *Research Focus*: Deep Learning for Scientific Applications (e.g., Chemistry, Climate Science, etc.)
 * M.S. with *Highest Honors* in Computer Science (Machine Learning Specialization), **Georgia Institute of Technology**, 2020 - 2021
 * B.S. with *High Honors* in Computer Science (Machine Learning and Devices Threads), **Georgia Institute of Technology**, 2015 - 2019
@@ -44,24 +44,6 @@ Work experience
 * Graduate Teaching Assistant at **[Georgia Institute of Technology](https://www.gatech.edu/)**, Aug 2020 - May 2021
   * CS 4510: Automata and Complexity, Spring 2021, Taught by [Dr. Zvi Galil](https://www.cc.gatech.edu/people/zvi-galil)
   * CS 4510: Automata and Complexity, Fall 2020, Taught by [Dr. Merrick Furst](https://www.cc.gatech.edu/people/merrick-furst)
-
-* Student Research Assistant at the **[Cyber Forensics Innovation (CyFI) Lab at Georgia Tech](https://cyfi.ece.gatech.edu/)**, Jan 2020 - Aug 2020
-  * Developed GNN-based ML models to analyze social media data for detecting incoming cyber attacks.
-  * Advisor: [Dr. Maria Konte](https://mkonte.github.io/)
-
-* Software Engineering Intern at **[Ciena](https://www.ciena.com/)**, May 2017 - May 2018
-  * Developed software to interface with network devices and maintained CI/CD pipelines for build processes.
-
-Skills
-======
-* **Data Science and Machine Learning**:
-  * Proficient in Python data science libraries: NumPy, Pandas, Matplotlib, and Seaborn.
-  * Extensive experience with deep learning libraries: PyTorch and JAX.
-  * Experience with high-performance computing (HPC) and distributed (e.g., 128+ GPUs) training.
-* **Programming and Development**:
-  * Proficient in Python, C, C++, Rust, C\#, and JavaScript/TypeScript
-  * Experience with test-driven development, including unit tests, integration tests, and end-to-end tests.
-  * In-depth knowledge of virtualization, containers, and Docker/Podman/Singularity.
 
 Publications
 ======
