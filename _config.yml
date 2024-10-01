@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nima Shoghi"
 title_separator          : "-"
 name                     : &name "Nima Shoghi"
-description              : &description "AI Researcher"
+description              : &description "ML PhD Student"
 url                      : https://nima.sh # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nimashoghi/nimashoghi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nima Shoghi"
   avatar           : "profile.jpg"
-  bio              : "AI Researcher"
+  bio              : "ML PhD Student"
   location         : "Atlanta, GA"
   employer         :
   pubmed           :
