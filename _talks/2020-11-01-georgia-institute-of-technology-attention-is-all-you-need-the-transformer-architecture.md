@@ -6,6 +6,7 @@ permalink: /talks/2020-11-01-georgia-institute-of-technology-attention-is-all-yo
 venue: 'Georgia Institute of Technology'
 date: '2020-11-01'
 location: 'Atlanta, GA'
+tagline: 'Presented the seminal Transformer paper by Vaswani et al. (2017) and discussed its impact on the field of natural language processing.'
 ---
 
 This talk presents the seminal Transformer paper by Vaswani et al. (2017) and discusses its impact on the field of natural language processing. The Transformer architecture has revolutionized the field by introducing self-attention mechanisms that can model long-range dependencies in sequences, enabling parallelization and scalability in training.

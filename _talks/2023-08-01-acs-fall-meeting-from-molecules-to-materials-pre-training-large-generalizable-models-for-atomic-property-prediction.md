@@ -6,6 +6,7 @@ permalink: /talks/2023-08-01-acs-fall-meeting-from-molecules-to-materials-pre-tr
 venue: 'ACS Fall Meeting'
 date: '2023-08-01'
 location: 'San Francisco, CA'
+tagline: 'Introduced Joint Multi-Domain Pre-training (JMP), a robust supervised pre-training approach which demonstrates state-of-the-art results on key small molecule, large molecule, and materials datasets.'
 ---
 
 This talk introduces Joint Multi-Domain Pre-training (JMP), a robust supervised pre-training approach which simultaneously trains on data from multiple chemical domains. JMP demonstrates state-of-the-art results on key small molecule, large molecule, and materials datasets and offers insights into the influence of pre-training strategies on fine-tuning.
