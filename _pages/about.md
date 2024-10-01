@@ -40,7 +40,6 @@ Work experience
 ======
 * Machine Learning Intern at **[ProcessMiner](https://www.processminer.com/)**, Jun 2024 - Aug 2024
   * Under the supervision of [Dr. Kamran Paynabar](https://sites.gatech.edu/kamran-paynabar/), developed novel pre-trained transformer models trained on ~500,000 time-series data points from manufacturing processes to predict process outcomes and detect anomalies.
-  * Fine-tuned these models for real-time anomaly detection, achieving accuracy improvements over previous methods.
 
 * Temporary Research Staff at the **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, Dec 2023 - May 2024
   * Working on efficient inference strategies for pre-trained image diffusion models, with a focus on generating diverse, high-quality images.
