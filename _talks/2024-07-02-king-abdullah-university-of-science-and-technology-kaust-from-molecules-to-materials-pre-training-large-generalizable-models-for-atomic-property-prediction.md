@@ -11,5 +11,4 @@ tagline: 'Introduced Joint Multi-Domain Pre-training (JMP), a robust supervised 
 
 This talk introduces Joint Multi-Domain Pre-training (JMP), a robust supervised pre-training approach which simultaneously trains on data from multiple chemical domains. JMP demonstrates state-of-the-art results on key small molecule, large molecule, and materials datasets and offers insights into the influence of pre-training strategies on fine-tuning.
 
-Slides: [https://nima.sh/jmp-kaust](https://nima.sh/jmp-kaust)
-
+Slides: [https://nima.sh/jmp-sesai](https://nima.sh/jmp-sesai)
