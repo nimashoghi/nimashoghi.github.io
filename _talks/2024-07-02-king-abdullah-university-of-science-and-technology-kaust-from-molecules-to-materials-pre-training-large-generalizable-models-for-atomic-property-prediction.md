@@ -1,7 +1,7 @@
 ---
 title: 'From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction'
 collection: talks
-type: 'Talk'
+type: 'Invited Talk'
 permalink: /talks/2024-07-02-king-abdullah-university-of-science-and-technology-kaust-from-molecules-to-materials-pre-training-large-generalizable-models-for-atomic-property-prediction
 venue: 'King Abdullah University of Science and Technology (KAUST)'
 date: '2024-07-02'

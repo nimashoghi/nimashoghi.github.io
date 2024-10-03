@@ -1,7 +1,7 @@
 ---
 title: 'From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction'
 collection: talks
-type: 'Talk'
+type: 'Invited Talk'
 permalink: /talks/2024-04-10-molecular-ml-reading-group-from-molecules-to-materials-pre-training-large-generalizable-models-for-atomic-property-prediction
 venue: 'Molecular ML Reading Group'
 date: '2024-04-10'
@@ -13,4 +13,3 @@ This talk introduces Joint Multi-Domain Pre-training (JMP), a robust supervised 
 
 Slides: [https://nima.sh/jmp-molecularml-presentation](https://nima.sh/jmp-molecularml-presentation)
 Video: [https://youtu.be/HCtBvtHO5Gk](https://youtu.be/HCtBvtHO5Gk)
-
