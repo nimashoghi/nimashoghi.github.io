@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a PhD student in Machine Learning at Georgia Tech, where I am focusing on Deep Learning for Scientific Applications under the guidance of [Dr. Pan Li](https://sites.google.com/view/panli-purdue) and [Dr. Victor Fung](https://cse.gatech.edu/people/victor-fung). I earned my B.S. and M.S. degrees in Computer Science from Georgia Tech, during which I conducted research at the High Performance Computer Architecture Lab on accelerating ML training and inference.  Prior to starting my PhD, I completed a two-year AI residency at Meta AI's FAIR Chemistry team, where I worked on developing large pre-trained models, trained on a diverse mixture of chemical data across multiple domains, for general-purpose chemical property prediction. My research interests lie in the development and application of deep learning techniques to challenging problems in science and engineering. I am particularly excited about the potential for deep learning to accelerate discovery and understanding in fields like chemistry and climate science.
 
-**I'm actively looking for internship opportunities in summer 2025.** If you are interested in collaborating or have an opportunity that you think I might be a good fit for, please feel free to reach out to me at [nimash@gatech.edu](mailto:nimash@gatech.edu).
+**I'm actively looking for internship opportunities in summer 2025.** If you are interested in collaborating or have an opportunity that you think I might be a good fit for, please feel free to reach out to me at **nimash [at] gatech [dot] edu**.
 
 My CV is available [here](files/cv.pdf).
 
