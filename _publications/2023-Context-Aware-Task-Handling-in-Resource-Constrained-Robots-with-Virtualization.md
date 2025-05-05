@@ -1,16 +1,15 @@
 ---
-title: 'Context-Aware Task Handling in Resource-Constrained Robots with Virtualization'
+title: "Context-Aware Task Handling in Resource-Constrained Robots with Virtualization"
 collection: publications
 permalink: /publication/2023-Context-Aware-Task-Handling-in-Resource-Constrained-Robots-with-Virtualization
-excerpt: 'Developed a context-aware task handling technique for resource-constrained mobile robots, enabling concurrent execution of critical tasks with improved real-time performance.'
+excerpt: 'Develops a fast context-aware technique that enables resource-constrained robots to handle multiple tasks simultaneously with improved timeliness, demonstrating a 42% speedup in execution time compared to standard scheduling approaches.'
 date: 2023-01-01
 venue: '2023 IEEE International Conference on Edge Computing and Communications (EDGE)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10234269/'
-authors: 'Ramyad Hadidi, <b>Nima Shoghi Ghaleshahi</b>, Bahar Asgari, Hyesoon Kim'
-citation: 'Ramyad Hadidi, <b>Nima Shoghi Ghaleshahi</b>, Bahar Asgari, Hyesoon Kim, 2023 IEEE International Conference on Edge Computing and Communications …, 2023'
-full_citation: 'Ramyad Hadidi, <b>Nima Shoghi Ghaleshahi</b>, Bahar Asgari, Hyesoon Kim, 2023 IEEE International Conference on Edge Computing and Communications …, 2023'
+paperurl: 'https://doi.org/10.1109/EDGE60047.2023.00047'
+authors: 'Ramyad Hadidi, <b>Nima Shoghi</b>, Bahar Asgari, Hyesoon Kim'
+citation: 'Ramyad Hadidi, <b>Nima Shoghi</b>, Bahar Asgari, Hyesoon Kim, 2023 IEEE International Conference on Edge Computing and Communications (EDGE), 2023.'
+full_citation: 'Ramyad Hadidi, <b>Nima Shoghi</b>, Bahar Asgari, Hyesoon Kim, &quot;Context-Aware Task Handling in Resource-Constrained Robots with Virtualization.&quot; 2023 IEEE International Conference on Edge Computing and Communications (EDGE), 2023.'
 ---
+Develops a fast context-aware technique that enables resource-constrained robots to handle multiple tasks simultaneously with improved timeliness, demonstrating a 42% speedup in execution time compared to standard scheduling approaches.
 
-This paper proposes a novel context-aware task handling technique for resource-constrained mobile robots. The approach combines a dynamic time-sharing mechanism, event-driven task scheduling using reactive programming, and lightweight virtualized execution to effectively handle multiple tasks concurrently while ensuring real-time performance. The technique is demonstrated on a Raspberry Pi-based robot performing tasks such as SLAM, sign detection, and speech processing.
-
-[Access paper here](https://ieeexplore.ieee.org/abstract/document/10234269/){:target="_blank"}
+[Access paper here](https://doi.org/10.1109/EDGE60047.2023.00047){:target="_blank"}
