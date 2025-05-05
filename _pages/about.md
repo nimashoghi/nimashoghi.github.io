@@ -16,6 +16,8 @@ My CV is available [here](files/cv.pdf).
 
 Recent Updates
 ======
+* **[May 2025]** I will be starting a **Research Scientist Internship** at Bytedance Research.
+* **[Apr 2025]** Our paper on [MatterTune: An Integrated, User-Friendly Platform for Fine-Tuning Atomistic Foundation Models to Accelerate Materials Simulation and Discovery](https://arxiv.org/abs/2504.10655) is now available on [arXiv](https://arxiv.org/abs/2504.10655)!
 * **[Sep 2024]** I gave an **invited talk** titled [Unlocking the Potential of Pre-training for Accelerated Discovery in Chemistry](https://nima.sh/talks/2024-09-20-ai-for-science-institute-unlocking-the-potential-of-pre-training-for-accelerated-discovery-in-chemistry) at the AI for Science Institute (AISI) Beijing. [[Slides]](https://nima.sh/aisi-presentation)
 * **[Aug 2024]** I gave an **invited talk** titled [Unlocking the Potential of Pre-training for Accelerated Discovery in Chemistry](https://nima.sh/talks/2024-08-27-2024-machine-learning-for-materials-and-molecular-discoveries-symposium-unlocking-the-potential-of-pre-training-for-accelerated-discovery-in-chemistry) at the 2024 Machine Learning for Materials and Molecular Discoveries Symposium in Gothenburg, Sweden. [[Slides]](https://nima.sh/ml2md)
 * **[Aug 2024]** I started my **PhD in Machine Learning** at Georgia Tech, where I will be focusing on Deep Learning for Scientific Applications under the guidance of [Dr. Pan Li](https://sites.google.com/view/panli-purdue) and [Dr. Victor Fung](https://cse.gatech.edu/people/victor-fung).
@@ -39,24 +41,24 @@ Education
 
 Work experience
 ======
+* Research Scientist Intern on the AI for Science Team at **[Bytedance Research](https://bytedance.com/en/)**, May 2025 - Aug 2025 (expected)
+  * Will collaborate with multidisciplinary teams to develop foundation models for drug discovery, including computational protein design and molecular conformation analysis.
+
 * Machine Learning Intern at **[ProcessMiner](https://www.processminer.com/)**, Jun 2024 - Aug 2024
-  * Under the supervision of [Dr. Kamran Paynabar](https://sites.gatech.edu/kamran-paynabar/), developed novel pre-trained transformer models trained on ~500,000 time-series data points from manufacturing processes to predict process outcomes and detect anomalies.
+  * Developed novel pre-trained transformer models trained on ~500,000 time-series data points from manufacturing processes to predict process outcomes and detect anomalies.
 
 * Temporary Research Staff at the **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, Dec 2023 - May 2024
   * Working on efficient inference strategies for pre-trained image diffusion models, with a focus on generating diverse, high-quality images.
-  * Advisors: [Dr. Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) and [Dr. Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/)
 
 * AI Resident at **[Meta Fundamental AI Research (FAIR)](https://ai.meta.com/research/)**, Aug 2021 - Aug 2023
   * Worked on the [Open Catalyst Project](https://opencatalystproject.org/index.html) on the FAIR Chemistry team, focusing on the development of large-scale pre-training methods for chemical property prediction.
-  * Advisors: [Dr. Larry Zitnick](http://larryzitnick.org/) and [Dr. Abhishek Das](https://abhishekdas.com/)
 
 * Research Assistant at **[High Performance Computer Architecture Lab at Georgia Tech](https://sites.gatech.edu/hparch/)**, May 2019 - May 2021
   * Developed software-level and hardware-level techniques for accelerating deep learning training and inference.
-  * Advisors: [Dr. Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) and [Dr. Moinuddin Qureshi](https://www.cc.gatech.edu/~mqureshi/)
 
 * Graduate Teaching Assistant at **[Georgia Institute of Technology](https://www.gatech.edu/)**, Aug 2020 - May 2021
-  * CS 4510: Automata and Complexity, Spring 2021, Taught by [Dr. Zvi Galil](https://www.cc.gatech.edu/people/zvi-galil)
-  * CS 4510: Automata and Complexity, Fall 2020, Taught by [Dr. Merrick Furst](https://www.cc.gatech.edu/people/merrick-furst)
+  * CS 4510: Automata and Complexity, Spring 2021
+  * CS 4510: Automata and Complexity, Fall 2020
 
 Publications
 ======
