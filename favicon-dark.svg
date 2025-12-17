@@ -1,0 +1,27 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background -->
+  <rect width="512" height="512" fill="#1c1917" rx="128"/>
+  
+  <!-- Main design: Abstract molecular structure with neural network nodes -->
+  <!-- Central hexagon representing molecular structure -->
+  <g transform="translate(256, 256)">
+    <!-- Outer ring - neural network connections -->
+    <circle cx="0" cy="-80" r="24" fill="#34d399" opacity="0.95"/>
+    <circle cx="69.28" cy="-40" r="24" fill="#34d399" opacity="0.95"/>
+    <circle cx="69.28" cy="40" r="24" fill="#34d399" opacity="0.95"/>
+    <circle cx="0" cy="80" r="24" fill="#34d399" opacity="0.95"/>
+    <circle cx="-69.28" cy="40" r="24" fill="#34d399" opacity="0.95"/>
+    <circle cx="-69.28" cy="-40" r="24" fill="#34d399" opacity="0.95"/>
+    
+    <!-- Connection lines -->
+    <line x1="0" y1="-80" x2="69.28" y2="-40" stroke="#34d399" stroke-width="8" opacity="0.7"/>
+    <line x1="69.28" y1="-40" x2="69.28" y2="40" stroke="#34d399" stroke-width="8" opacity="0.7"/>
+    <line x1="69.28" y1="40" x2="0" y2="80" stroke="#34d399" stroke-width="8" opacity="0.7"/>
+    <line x1="0" y1="80" x2="-69.28" y2="40" stroke="#34d399" stroke-width="8" opacity="0.7"/>
+    <line x1="-69.28" y1="40" x2="-69.28" y2="-40" stroke="#34d399" stroke-width="8" opacity="0.7"/>
+    <line x1="-69.28" y1="-40" x2="0" y2="-80" stroke="#34d399" stroke-width="8" opacity="0.7"/>
+    
+    <!-- Central node -->
+    <circle cx="0" cy="0" r="32" fill="#10b981" stroke="#34d399" stroke-width="6"/>
+  </g>
+</svg>
