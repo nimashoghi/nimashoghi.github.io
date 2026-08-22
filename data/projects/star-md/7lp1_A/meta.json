@@ -1,0 +1,27 @@
+{
+  "id": "7lp1_A",
+  "name": "E3 Ubiquitin-Protein Ligase Nedd4L (WW3 Domain)",
+  "description": "E3 ubiquitin-protein ligase that mediates polyubiquitination, regulating ion channels and signaling proteins.",
+  "pdbPath": "/data/7lp1_A/7lp1_A_starmd.pdb",
+  "xtcPath": "/data/7lp1_A/7lp1_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/lp/7lp1/7lp1_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "7LP1",
+  "chainId": "A",
+  "atlasId": "7lp1_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/7lp1_A/7lp1_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/7LP1",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

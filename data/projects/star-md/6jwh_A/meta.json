@@ -1,0 +1,27 @@
+{
+  "id": "6jwh_A",
+  "name": "Nuclear Protein Localization Protein 4 (Npl4)",
+  "description": "Substrate-recruiting cofactor of the CDC48-NPL4-UFD1 segregase complex, essential for protein quality control and ER-associated degradation.",
+  "pdbPath": "/data/6jwh_A/6jwh_A_starmd.pdb",
+  "xtcPath": "/data/6jwh_A/6jwh_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/jw/6jwh/6jwh_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "6JWH",
+  "chainId": "A",
+  "atlasId": "6jwh_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/6jwh_A/6jwh_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/6JWH",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

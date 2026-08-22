@@ -1,0 +1,27 @@
+{
+  "id": "6okd_C",
+  "name": "Transferrin Receptor Protein 1 (TfR1)",
+  "description": "Mediates cellular uptake of iron via receptor-mediated endocytosis of transferrin-iron complexes.",
+  "pdbPath": "/data/6okd_C/6okd_C_starmd.pdb",
+  "xtcPath": "/data/6okd_C/6okd_C_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/ok/6okd/6okd_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "6OKD",
+  "chainId": "C",
+  "atlasId": "6okd_C",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/6okd_C/6okd_C.html",
+  "pdbUrl": "https://www.rcsb.org/structure/6OKD",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

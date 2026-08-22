@@ -1,0 +1,27 @@
+{
+  "id": "6odd_B",
+  "name": "Mitochondrial Acyl Carrier Protein (ACP)",
+  "description": "Carrier of the growing fatty acid chain in mitochondrial fatty acid biosynthesis.",
+  "pdbPath": "/data/6odd_B/6odd_B_starmd.pdb",
+  "xtcPath": "/data/6odd_B/6odd_B_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/od/6odd/6odd_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "6ODD",
+  "chainId": "B",
+  "atlasId": "6odd_B",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/6odd_B/6odd_B.html",
+  "pdbUrl": "https://www.rcsb.org/structure/6ODD",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

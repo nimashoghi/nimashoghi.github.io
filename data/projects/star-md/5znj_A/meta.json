@@ -1,0 +1,27 @@
+{
+  "id": "5znj_A",
+  "name": "Prolyl-tRNA Synthetase (ProRS)",
+  "description": "Aminoacyl-tRNA synthetase that catalyzes the attachment of proline to its cognate tRNA for protein synthesis.",
+  "pdbPath": "/data/5znj_A/5znj_A_starmd.pdb",
+  "xtcPath": "/data/5znj_A/5znj_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/zn/5znj/5znj_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "5ZNJ",
+  "chainId": "A",
+  "atlasId": "5znj_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/5znj_A/5znj_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/5ZNJ",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

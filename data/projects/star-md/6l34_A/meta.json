@@ -1,0 +1,27 @@
+{
+  "id": "6l34_A",
+  "name": "FACT Complex Subunit SSRP1 (HMG Domain)",
+  "description": "Component of the FACT complex, a chromatin factor that reorganizes nucleosomes during transcription and DNA replication.",
+  "pdbPath": "/data/6l34_A/6l34_A_starmd.pdb",
+  "xtcPath": "/data/6l34_A/6l34_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/l3/6l34/6l34_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "6L34",
+  "chainId": "A",
+  "atlasId": "6l34_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/6l34_A/6l34_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/6L34",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

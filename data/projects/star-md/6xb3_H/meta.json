@@ -1,0 +1,27 @@
+{
+  "id": "6xb3_H",
+  "name": "AcNPV Poxin",
+  "description": "Structure of AcNPV poxin in post-reactive state",
+  "pdbPath": "/data/6xb3_H/6xb3_H_starmd.pdb",
+  "xtcPath": "/data/6xb3_H/6xb3_H_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/xb/6xb3/6xb3_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "6XB3",
+  "chainId": "H",
+  "atlasId": "6xb3_H",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/6xb3_H/6xb3_H.html",
+  "pdbUrl": "https://www.rcsb.org/structure/6XB3",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

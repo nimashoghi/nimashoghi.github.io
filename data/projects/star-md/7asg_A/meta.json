@@ -1,0 +1,27 @@
+{
+  "id": "7asg_A",
+  "name": "TGFBIp (R555W Mutant)",
+  "description": "Mutant of Transforming Growth Factor-Beta-Induced Protein (TGFBIp) associated with corneal dystrophy.",
+  "pdbPath": "/data/7asg_A/7asg_A_starmd.pdb",
+  "xtcPath": "/data/7asg_A/7asg_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": null,
+  "timePerFrameNs": 1.25,
+  "pdbId": "7ASG",
+  "chainId": "A",
+  "atlasId": "7asg_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/7asg_A/7asg_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/7ASG",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

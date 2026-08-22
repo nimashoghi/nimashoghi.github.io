@@ -1,0 +1,27 @@
+{
+  "id": "7dmn_A",
+  "name": "Diels-Alderase Fsa2",
+  "description": "Pericyclase enzyme that catalyzes [4+2] cycloaddition reactions in the biosynthesis of fungal meroterpenoids.",
+  "pdbPath": "/data/7dmn_A/7dmn_A_starmd.pdb",
+  "xtcPath": "/data/7dmn_A/7dmn_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/dm/7dmn/7dmn_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "7DMN",
+  "chainId": "A",
+  "atlasId": "7dmn_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/7dmn_A/7dmn_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/7DMN",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}

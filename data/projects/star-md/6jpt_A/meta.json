@@ -1,0 +1,27 @@
+{
+  "id": "6jpt_A",
+  "name": "Proteasome Assembly Chaperone 3 (PAC3)",
+  "description": "Chaperone protein which promotes assembly of the 20S proteasome core particle.",
+  "pdbPath": "/data/6jpt_A/6jpt_A_starmd.pdb",
+  "xtcPath": "/data/6jpt_A/6jpt_A_starmd.xtc",
+  "numFrames": 80,
+  "thumbnail": "https://cdn.rcsb.org/images/structures/jp/6jpt/6jpt_assembly-1.jpeg",
+  "timePerFrameNs": 1.25,
+  "pdbId": "6JPT",
+  "chainId": "A",
+  "atlasId": "6jpt_A",
+  "atlasUrl": "https://www.dsimb.inserm.fr/ATLAS/database/ATLAS/6jpt_A/6jpt_A.html",
+  "pdbUrl": "https://www.rcsb.org/structure/6JPT",
+  "trajectories": [
+    {
+      "id": "starmd",
+      "name": "STAR-MD",
+      "color": "0 70% 50%"
+    },
+    {
+      "id": "md-oracle",
+      "name": "MD Oracle",
+      "color": "35 90% 55%"
+    }
+  ]
+}
